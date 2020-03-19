@@ -1,7 +1,7 @@
 # Week plan test
 
 ## 마일스톤 생성/Close
- * 사람 아무나 생성/Close 함. 누구나 쉽게 생성하고 Close시킬수 있기 때문에, 주간계획을 먼저 올리는
+ * 사람 아무나 생성/Close 함. 누구나 쉽게 생성하고 Close시킬수 있기 때문에 주간계획을 먼저 올리는 사람이 시행
  
  * Issue -> Milestones -> New milestorne/Close
 ![image](https://user-images.githubusercontent.com/32090903/77047754-a2b0cd80-6a08-11ea-9ab1-0212580e08d2.png)
