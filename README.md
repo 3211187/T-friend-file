@@ -15,6 +15,8 @@
    * 답장 : (요일)
             작업내용
             완료
+![image](https://user-images.githubusercontent.com/32090903/77050492-35536b80-6a0d-11ea-904d-e1c506a04945.png)
+![image](https://user-images.githubusercontent.com/32090903/77050583-54ea9400-6a0d-11ea-82bf-94bcade96f35.png)
             
  * 기타 사항 : 
     1) 할일이 미뤄진 경우 : 사유을 적을 것 (완료한뒤에 Close)
@@ -23,3 +25,4 @@
     목표에 대한 책임감을 위해 할일을 모두 완료해야만 Close하는 걸로 정했음. 
     필치못할 사정은 
     ~~~
+![image](https://user-images.githubusercontent.com/32090903/77050839-b14db380-6a0d-11ea-862c-f51c0392c846.png)
