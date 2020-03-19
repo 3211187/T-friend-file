@@ -25,4 +25,4 @@
     목표에 대한 책임감을 위해 할일을 모두 완료해야만 Close하는 걸로 정했음. 
     필치못할 사정은 제외함.
     ~~~
-![image](https://user-images.githubusercontent.com/32090903/77050985-ebb75080-6a0d-11ea-8692-910b3f705894.png)
+![image](https://user-images.githubusercontent.com/32090903/77051126-21f4d000-6a0e-11ea-8eba-0f3638d2764b.png)
