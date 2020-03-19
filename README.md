@@ -9,6 +9,8 @@
 
 ## Issue 생성/Close
  * 개인이 생성/Close 함.
+ * Issue -> New issue -> Get started -> 작성
+ * Issue 항목 -> 
  * 규칙
    * 제목 : 홍길동 200101~200106
    * 내용 : (양식에 따라 작성), 마일스톤과 라벨 Check; 라벨은 모아보기를 위해서 사용
