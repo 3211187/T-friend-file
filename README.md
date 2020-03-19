@@ -15,7 +15,7 @@
    * 제목 : 홍길동 200101~200106
    * 내용 : (양식에 따라 작성), 마일스톤과 라벨 Check; 라벨은 모아보기를 위해서 사용
    * 답장 : (요일)
-            작업내용
+            (작업내용)
             완료
 ![image](https://user-images.githubusercontent.com/32090903/77050492-35536b80-6a0d-11ea-904d-e1c506a04945.png)
 ![image](https://user-images.githubusercontent.com/32090903/77050583-54ea9400-6a0d-11ea-82bf-94bcade96f35.png)
