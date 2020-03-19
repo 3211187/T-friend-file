@@ -23,6 +23,6 @@
     2) 시행불가인 경우 : 사유을 적을 것 (그대로 Close 가능)
     ~~~
     목표에 대한 책임감을 위해 할일을 모두 완료해야만 Close하는 걸로 정했음. 
-    필치못할 사정은 
+    필치못할 사정은 제외함.
     ~~~
-![image](https://user-images.githubusercontent.com/32090903/77050839-b14db380-6a0d-11ea-862c-f51c0392c846.png)
+![image](https://user-images.githubusercontent.com/32090903/77050985-ebb75080-6a0d-11ea-8692-910b3f705894.png)
